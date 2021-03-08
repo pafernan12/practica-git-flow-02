@@ -20,4 +20,6 @@ iframe {
 .tab {
   display: flex;
   height: 100%;
+  background-color: #111;
+  color: #fff;
 }
